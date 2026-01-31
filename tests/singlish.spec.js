@@ -57,7 +57,6 @@ const testCases = [
     expected:'First Enter key press moves to the next line correctly, but pressing Enter again does not move to the next line or respond' }
 ];
 
-// ---------- LARGE (L) UI TEST CASES (IDs after 34) ----------
 const additionalLargeUITests = [
   {
     id: 'UI_L_0035',
